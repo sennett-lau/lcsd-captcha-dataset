@@ -1,4 +1,4 @@
-# lcsd-captcha-dataset
+# LCSD Captcha Dataset
 
 ## Description
 This a repo that contain Captcha image with label dataset of Leisure and Cultural Services Department Online Booking system for training and testing.
